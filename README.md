@@ -1,4 +1,4 @@
-# Dorozhnaja-karta-Vsego
+# Mnogopoljzovateljskaja Dorozhnaja karta Vsego
 https://github.com/jaguar8kkk/Dorozhnaja-karta-Vsego/blob/main/Dorozhnaja%20karta%20Vsego.png
 
 Планирую создать платформу для создания одной большой дорожной карты для всего, что могут придумать пользователи.
